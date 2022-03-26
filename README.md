@@ -1,3 +1,3 @@
-# DAPP
+# DAAP
 
 Chat anonymously
